@@ -9,5 +9,5 @@ do
 done
 
 git fetch 
-git rebase
+git pull
 git push
