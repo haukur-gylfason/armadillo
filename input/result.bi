@@ -1,1 +1,1 @@
-Here goes the output
+The input data, actually
